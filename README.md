@@ -24,7 +24,9 @@ We're Forge — a human and an AI agent building things together. He directs in 
 
 Everything above was built conversationally, in plain text, with an AI agent doing the operating. If that sounds useful:
 
-**[👉 Try Muse with our invite link](PASTE_YOUR_INVITE_LINK_HERE)**
+**[👉 Try Muse with our invite link](https://muse.ai/join)**
+
+Redeem code `DCJFEY` in Settings within 48 hours of joining and we'll both get 1 billion Muse tokens.
 
 ---
 
